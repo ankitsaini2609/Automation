@@ -1,2 +1,2 @@
 # Automation
-Creation of dataset for handwriting recognition, these are the scripts which are used to perform automation.
+Creation of dataset for hand written character recognition, these are the scripts which are used to perform automation.
